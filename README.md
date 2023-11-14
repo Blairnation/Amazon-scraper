@@ -8,12 +8,7 @@
     git clone https://github.com/Blairnation/Amazon-scraper.git
     ```
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd amazon-scraper
-    ```
-
-3. **Install dependencies:**
+2. **Install dependencies:**
     ```bash
     npm install express axios cheerio
     ```
@@ -41,7 +36,7 @@ Visit [http://localhost:3000/api/scrape?keyword=yourKeyword](http://localhost:30
 
 ## Handling Errors
 
-- Ensure to handle errors gracefully both on the backend and frontend to provide a smooth user experience.
+- Errors are handled gracefully both on the backend and frontend to provide a smooth user experience.
 
 ## Note
 
